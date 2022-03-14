@@ -1,0 +1,14 @@
+C:\Users\Rahim\source\repos\DFS_BFS\DFS_BFS\bin\Debug\DFS_BFS.exe.config
+C:\Users\Rahim\source\repos\DFS_BFS\DFS_BFS\bin\Debug\DFS_BFS.exe
+C:\Users\Rahim\source\repos\DFS_BFS\DFS_BFS\bin\Debug\DFS_BFS.pdb
+C:\Users\Rahim\source\repos\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.csprojAssemblyReference.cache
+C:\Users\Rahim\source\repos\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.csproj.CoreCompileInputs.cache
+C:\Users\Rahim\source\repos\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.exe
+C:\Users\Rahim\source\repos\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.pdb
+E:\_my Coding\Algorithms\Searching\DFS_BFS\DFS_BFS\bin\Debug\DFS_BFS.exe.config
+E:\_my Coding\Algorithms\Searching\DFS_BFS\DFS_BFS\bin\Debug\DFS_BFS.exe
+E:\_my Coding\Algorithms\Searching\DFS_BFS\DFS_BFS\bin\Debug\DFS_BFS.pdb
+E:\_my Coding\Algorithms\Searching\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.csprojAssemblyReference.cache
+E:\_my Coding\Algorithms\Searching\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.csproj.CoreCompileInputs.cache
+E:\_my Coding\Algorithms\Searching\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.exe
+E:\_my Coding\Algorithms\Searching\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.pdb
